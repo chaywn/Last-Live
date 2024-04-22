@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e77615e04928af14ea619f6058a4ca11, type: 3}
+  m_Name: FAMAS G2
+  m_EditorClassIdentifier: 
+  localPositionToCamera: {x: 0.72, y: -0.2, z: -0.15}
+  audioClipArray:
+  - {fileID: 8300000, guid: 1b145bcffd767854fb0c71c37678ebaa, type: 3}
+  - {fileID: 8300000, guid: e1d79f4a0c7873742babc5f6e9ff800e, type: 3}
+  - {fileID: 8300000, guid: 406c929b7299afb469c82778f8d15d5b, type: 3}
+  damage: {x: 22, y: 34}
+  fireRate: 900
+  range: 44
+  normalLocalPosition: {x: 0.422, y: -0.458, z: 0.563}
+  aimingLocalPosition: {x: 0.005, y: -0.4, z: 0.563}
+  smoothing: 8
+  gunRecoil: 0.1
+  cameraRecoilConstraint: {x: 1, y: 1}
+  magSize: 25
+  reloadDuration: 2

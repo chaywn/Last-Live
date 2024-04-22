@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e77615e04928af14ea619f6058a4ca11, type: 3}
+  m_Name: AK-47
+  m_EditorClassIdentifier: 
+  localPositionToCamera: {x: 0.72, y: -0.2, z: -0.045}
+  audioClipArray:
+  - {fileID: 8300000, guid: f19e3fdb9c8082647a2c32beca28ba84, type: 3}
+  - {fileID: 8300000, guid: e1d79f4a0c7873742babc5f6e9ff800e, type: 3}
+  - {fileID: 8300000, guid: 406c929b7299afb469c82778f8d15d5b, type: 3}
+  damage: {x: 30, y: 40}
+  fireRate: 600
+  range: 46
+  normalLocalPosition: {x: 0.422, y: -0.514, z: 0.858}
+  aimingLocalPosition: {x: 0.005, y: -0.426, z: 0.858}
+  smoothing: 8
+  gunRecoil: 0.2
+  cameraRecoilConstraint: {x: 1, y: 1}
+  magSize: 30
+  reloadDuration: 2.5

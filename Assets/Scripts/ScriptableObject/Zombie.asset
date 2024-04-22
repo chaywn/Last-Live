@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e78041d88134434ea637c2372cc0066, type: 3}
+  m_Name: Zombie
+  m_EditorClassIdentifier: 
+  health: 100
+  attackRange: 2
+  damage: {x: 8, y: 15}
+  attackRate: 2
+  speed: 0
+  minSpeed: 2
+  maxSpeed: 5
+  audioClipArray:
+  - {fileID: 8300000, guid: a3159431077c73c448f9a35de02a8b11, type: 3}
+  - {fileID: 8300000, guid: 5b779f72e378a064b8564c8036cfe959, type: 3}
+  - {fileID: 8300000, guid: 637b82c320ac14c41b13e65aac90fd04, type: 3}
+  - {fileID: 8300000, guid: 5dab62a8975cbf745909799ea39fefac, type: 3}
+  - {fileID: 8300000, guid: 41ce92e8b53a6194dab2b62f3d631b5a, type: 3}
+  - {fileID: 8300000, guid: 4d7fae021601e2a48b57639f0b4bc00e, type: 3}
+  - {fileID: 8300000, guid: 0ead4ca5405967948ac7c5c52eeb3dd8, type: 3}
+  - {fileID: 8300000, guid: 7d387a45f59615544b7e8ca5ccfb8418, type: 3}
+  - {fileID: 8300000, guid: 66af4e429e1615e40888b58d7555aa0c, type: 3}
+  - {fileID: 8300000, guid: df69eb58f010b5c4295c5f8baf2f939e, type: 3}
+  - {fileID: 8300000, guid: e8d507fca9215e34f83cdff00cb458c2, type: 3}
+  - {fileID: 8300000, guid: 7ca9ad16de2328647953c738b22f4591, type: 3}
+  - {fileID: 8300000, guid: e32ec3d3af577094fa073185ad64affb, type: 3}
+  - {fileID: 8300000, guid: 06be09a161bc4cc46ae6872e47c8e8a0, type: 3}
+  - {fileID: 8300000, guid: 2fb29cad2d48f984a9454b96fd59672c, type: 3}
+  - {fileID: 8300000, guid: 91236c2a4047d6949a27d373725889b8, type: 3}
+  - {fileID: 8300000, guid: 7990c701f7eca6842bea93b128ecc59a, type: 3}
+  - {fileID: 8300000, guid: bdf60ad0fdc353740b0259d803f166d0, type: 3}
+  - {fileID: 8300000, guid: 5f8024919fe9cfd49a5fcadf40d94e39, type: 3}
+  - {fileID: 8300000, guid: fcccacbaf715aac4fbaeddc823ec0d43, type: 3}

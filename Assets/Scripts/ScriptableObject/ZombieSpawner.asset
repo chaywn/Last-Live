@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 067a6f7a82fd2fe49864d05fe96cbcc5, type: 3}
+  m_Name: ZombieSpawner
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 7424833042953062514, guid: e6d8c6a4da87c0f4a827c9a1ce92ac3a, type: 3}
+  - {fileID: 6237752730062015799, guid: 9c88d4834bbcafd4a81c5640e4b1d102, type: 3}
+  - {fileID: 4505610067745840480, guid: 6486ed4272f929046bc50e45e09c44b2, type: 3}
+  - {fileID: 4796352029463944612, guid: 77803240077350a46870d90f15268093, type: 3}
+  - {fileID: 2594128399822936128, guid: 25beebb8cadc1c64fa1c03e9ca97f352, type: 3}
+  - {fileID: 2590222471937059331, guid: 086ff520188870045a0a1602b73c6c65, type: 3}
+  - {fileID: 3034491546510194172, guid: eede82a01633c8546b943a1fea05b74e, type: 3}
+  - {fileID: 5950653748893389951, guid: 982c1aba9de14a743a0362634ec223b4, type: 3}
+  - {fileID: 8855232181854605184, guid: d277bc3332b551c41bb6a66aec599cf0, type: 3}
+  - {fileID: 5717209008753524807, guid: c68b42d9681236644aff77f93824c07f, type: 3}
+  - {fileID: 1032705398960611857, guid: 003506f0c68294145a235221aca935d6, type: 3}
+  - {fileID: 3812886920871323605, guid: c67f2649750908e4c873c547294c443b, type: 3}
+  - {fileID: 3045447988103171401, guid: 3a5206131cbe2674ab0d18858c62c44e, type: 3}
+  - {fileID: 6257652675533392172, guid: 5cc6a9ef5ea5704478049576fbd963d1, type: 3}
+  - {fileID: 1812460876046791944, guid: a1ba06bc7330238469df4780840e5c1f, type: 3}
+  spawnPoints:
+  - {x: -18, y: 0, z: -2.0295486}
+  - {x: -18, y: 0, z: -63.99855}
+  - {x: 25.866146, y: 3.142926, z: -47.206654}
+  - {x: -27.521708, y: 0.8369808, z: -46.715496}
+  - {x: -25.49379, y: 1.2840707, z: -21.264463}
+  - {x: 3.8806882, y: 1.5127907, z: -63.99477}
+  - {x: -6.285296, y: 1.3704596, z: -65.54495}
+  - {x: -7.9445252, y: 1.2206388, z: -1.3610582}
+  spawnTime: 5
+  minimumSpawnTime: 0.5
