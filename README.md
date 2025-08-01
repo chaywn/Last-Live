@@ -10,16 +10,6 @@ The game engine used in the production is Unity 2021.3.4f1.
 
 Due to the compatibility of the assets and packages that are being used in this game, running the project in older versions of Unity **may not work properly as intended**.
 
-
-## Aim & Objectives
-The aim of this game is to serve as my final project for CS50’s Introduction to Game Development.
-
-The objectives of the game are:
-1. To apply the knowledge that I've learned throughout the lessons in CS50’s Introduction to Game Development
-2. To further expand my knowledge and skills in Unity
-3. To explore horror/survival game genre
-
-
 ## How To Play
 > *You are at an abandoned supermarket. The sun has just set. As darkness sets in, you realize you are not alone...*
 
